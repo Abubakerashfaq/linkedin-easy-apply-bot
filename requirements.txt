@@ -1,5 +1,6 @@
 # Auto Job Applier — Python dependencies
 # Install everything with:  pip install -r requirements.txt
+# Needs Python 3.10 or newer. The start.* launchers set up a suitable Python for you.
 
 # Browser automation
 selenium

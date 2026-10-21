@@ -19,16 +19,23 @@ New here, or not comfortable editing code? Use the built-in control panel. You s
 everything up in your web browser and run the tool with a button — no editing Python files,
 no terminal commands.
 
-1. **Install Python once.** Get it from https://www.python.org/downloads/ (on Windows, tick
-   **"Add Python to PATH"** during install). You also need
-   [Google Chrome](https://www.google.com/chrome).
+1. **Install [Google Chrome](https://www.google.com/chrome)** if you don't have it. That's the
+   only thing you install yourself. You do **not** need to install Python.
 2. **Download this project** (green "Code" button → "Download ZIP", then unzip; or clone it).
+   On Windows, right-click the ZIP and choose **Extract All** before going on.
 3. **Double-click the launcher for your system:**
     - **macOS:** `start.command`
     - **Windows:** `start.bat`
     - **Linux:** `start.sh` (run `./start.sh` in a terminal)
 
-    The first run sets things up automatically (it may take a minute). After that it's quick.
+    The first run downloads its own private copy of Python and everything else it needs
+    (usually a minute or two; you need to be online). After that it starts in seconds.
+
+    > **Blocked the first time?** Your computer is just being careful with a downloaded file.
+    > **Mac** ("cannot be opened" / "could not verify"): open **System Settings → Privacy &
+    > Security**, scroll down, click **Open Anyway** (on older macOS, right-click
+    > `start.command` → **Open**). **Windows** ("Windows protected your PC"): click
+    > **More info** → **Run anyway**.
 4. Your browser opens the **control panel** automatically (the exact address, e.g.
    `http://127.0.0.1:5000`, is shown in the launcher window). Fill in the tabs —
    **Account, Profile, Search, Filters, Run settings** — and click **Save**.

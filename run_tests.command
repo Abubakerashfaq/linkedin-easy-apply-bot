@@ -1,4 +1,4 @@
-wawdaswd#!/bin/bash
+#!/bin/bash
 #
 # Author:  Abubaker Ashfaq
 # License: MIT License  (https://opensource.org/license/mit)

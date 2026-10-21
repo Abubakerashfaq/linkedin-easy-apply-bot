@@ -1,12 +1,13 @@
 # Installation
 
-There are two ways to set this up. Both need the same two things installed first:
-**Python** and **Google Chrome**.
+There are two ways to set this up.
 
-- **Easy start (recommended)** — a double-click launcher that does the rest for you.
+- **Easy start (recommended)** — a double-click launcher that does the rest for you,
+  Python included. All you install yourself is **Google Chrome**.
   See [Quick start in the README](../README.md#-quick-start).
-- **Manual install** — the classic route, described below. Use it if you want to run
-  `runAiBot.py` yourself, or if the launcher does not work on your system.
+- **Manual install** — the classic route, described below. It needs **Python 3.10 or
+  newer** and **Google Chrome**. Use it if you want to run `runAiBot.py` yourself, or if
+  the launcher does not work on your system.
 
 [![Auto Job Applier setup tutorial video](https://github.com/user-attachments/assets/9e876187-ed3e-4fbf-bd87-4acc145880a2)](https://youtu.be/f9rdz74e1lM?si=4fRBcte0nuvr6tEH)
 

@@ -16,6 +16,7 @@ old
 # panel writes it, config/_overrides.py applies it over these defaults, and the
 # in-app updater copies your live values into it before it pulls.
 .venv
+.tools
 apikeys.py
 
 # Local control-panel runtime files — contain your credentials/answers, never commit
